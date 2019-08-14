@@ -67,3 +67,4 @@ If I read one book per two week, I can complete almost 25 book, so I made some l
 ## 7. Podcasts
 
 1. [Modern CTO](https://moderncto.io/)
+2. [Software Engineering Radio](https://www.se-radio.net/)
