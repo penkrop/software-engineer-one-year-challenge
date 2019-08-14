@@ -1,7 +1,7 @@
 # Software Engineer One Year Challenge
 This is my personal 1 year challenge roadmap to become senior software engineer.
 
-## Books Should Read
+## 1. Books Should Read
 If I read one book per two week, I can complete almost 25 book, so I made some list of books I should read during one year. I made a lot of research for book list, so here is list below:
 ### must read books
 1. ***Code Complete: A Practical Handbook of Software Construction, Second Edition***  by Steve McConnell
@@ -26,7 +26,10 @@ If I read one book per two week, I can complete almost 25 book, so I made some l
 20. ***Peopleware: Productive Projects and Teams (3rd Edition)*** by Tom DeMarco
 
 
-### Tools should know
+## 2. At work - Skills, Habits, Advices and more...
+
+
+## 3. Tools should know
 There is list of technologies and tools should master
 #### Must know
 1. GIT
