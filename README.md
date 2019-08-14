@@ -29,9 +29,19 @@ If I read one book per two week, I can complete almost 25 book, so I made some l
 ## 2. At work - Skills, Habits, Advices and more...
 
 
-## 3. Tools should know
+## 3. Courses should take
+
+### Paid Courses
+1. ***Four Semesters of Computer Science in 5 Hours*** by Frontend Masters
+2. ***Four Semesters of Computer Science in 5 Hours Part 2*** by Frontend Masters
+3. ***Introduction to Data Structures for Interviews*** by Frontend Masters
+4. ***A Practical Guide to Algorithms with JavaScript by*** Frontend Masters
+
+## 4. Tools should know
 There is list of technologies and tools should master
 #### Must know
 1. GIT
 2. Docker
 3. AWS
+
+## 5. Articles must read
