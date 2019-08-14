@@ -39,3 +39,8 @@ If I read one book per two week, I can complete almost 25 book, so I made some l
 
 
 ## 6. Articles must read
+1. [Implementing Serverless Microservices Architecture on AWS](https://dzone.com/articles/implementing-serverless-microservices-architecture)
+2. [Kafka In Microservices With Micronaut](https://dzone.com/articles/kafka-in-microservices-with-micronaut)
+3. [Building Maintainable and Scalable Software](https://dzone.com/refcardz/design-patterns)
+4. [Foundations of RESTful Architecture](https://dzone.com/refcardz/rest-foundations-restful?chapter=1)
+5. [Design Patterns: Factory Pattern](https://dzone.com/articles/factory-pattern-2)
