@@ -39,8 +39,25 @@ If I read one book per two week, I can complete almost 25 book, so I made some l
 
 
 ## 6. Articles must read
+
+### Design Patterns
 1. [Implementing Serverless Microservices Architecture on AWS](https://dzone.com/articles/implementing-serverless-microservices-architecture)
 2. [Kafka In Microservices With Micronaut](https://dzone.com/articles/kafka-in-microservices-with-micronaut)
 3. [Building Maintainable and Scalable Software](https://dzone.com/refcardz/design-patterns)
 4. [Foundations of RESTful Architecture](https://dzone.com/refcardz/rest-foundations-restful?chapter=1)
 5. [Design Patterns: Factory Pattern](https://dzone.com/articles/factory-pattern-2)
+6. [Design Patterns: The Builder Pattern](https://dzone.com/articles/design-patterns-the-builder-pattern)
+7. [Design Patterns: The Beginning](https://dzone.com/articles/design-patterns-thebeginning)
+8. [Design Patterns for Microservices](https://dzone.com/articles/design-patterns-for-microservices-1)
+9. [Behavioral Design Patterns: Visitor](https://dzone.com/articles/behavioural-design-patterns-visitor)
+10.[Design Patterns for Microservices](https://dzone.com/articles/design-patterns-for-microservices)
+11.[Singleton Design Pattern: What, Why, How](https://dzone.com/articles/singleton-design-pattern-what-when-why-how)
+
+### Architecture
+1. [Architecture for Continuous Delivery](https://dzone.com/articles/architecture-for-continuous-delivery)
+2. [Hello, Hexagonal Architecture](https://dzone.com/articles/hello-hexagonal-architecture-1)
+3. [An Introduction to Domain Driven Design and Its Benefits](https://dzone.com/articles/an-introduction-to-domain-driven-design-and-its-be)
+4. [Need for Event-Driven Architecture](https://dzone.com/articles/need-for-event-driven-architecture)
+5. [Microservices Architectures: Event Driven Approach](https://dzone.com/articles/microservices-architectures-event-driven-approach)
+6. [Event-Driven Architecture - It’s Not Just About Events!](https://dzone.com/articles/its-not-just-about-events)
+7. [What Is Data Streaming?](https://dzone.com/articles/what-is-data-streaming)
