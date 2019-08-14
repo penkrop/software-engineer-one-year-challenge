@@ -11,3 +11,8 @@
 9. [Git Merge](https://www.atlassian.com/git/tutorials/using-branches/git-merge)
 10. [Merge Conflicts](https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts)
 11. [Merge Strategies](https://www.atlassian.com/git/tutorials/using-branches/merge-strategy)
+12. [Git Commit Message](http://karma-runner.github.io/0.10/dev/git-commit-msg.html)
+13. [Semantic Commit Messages](https://seesparkbox.com/foundry/semantic_commit_messages)
+14. [Introduction to Code Reviews](https://nyu-cds.github.io/effective-code-reviews/01-intro/)
+15. [Code Review Best Practices](https://nyu-cds.github.io/effective-code-reviews/02-best-practices/)
+15. [Code Review Checklist](https://nyu-cds.github.io/effective-code-reviews/03-checklist/)
