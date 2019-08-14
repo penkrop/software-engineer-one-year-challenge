@@ -37,12 +37,5 @@ If I read one book per two week, I can complete almost 25 book, so I made some l
 3. ***Introduction to Data Structures for Interviews*** by Frontend Masters
 4. ***A Practical Guide to Algorithms with JavaScript by*** Frontend Masters
 
-## 4. Tools should know
-There is list of technologies and tools should master
-#### Must know
-1. GIT
-2. Docker
-3. AWS
-4. Nginx
 
-## 5. Articles must read
+## 6. Articles must read
