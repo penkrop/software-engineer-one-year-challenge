@@ -1,5 +1,5 @@
 # Software Engineer One Year Challenge
-This is my personal 1 year challenge roadmap to become senior software engineer.
+This is my personal 1 year challenge roadmap to become senior software engineer. I am JavaScript developer, so mostly I wil focus on JavaScript stack
 
 ## 1. Books Should Read
 If I read one book per two week, I can complete almost 25 book, so I made some list of books I should read during one year. I made a lot of research for book list, so here is list below:
