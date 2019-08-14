@@ -50,8 +50,8 @@ If I read one book per two week, I can complete almost 25 book, so I made some l
 7. [Design Patterns: The Beginning](https://dzone.com/articles/design-patterns-thebeginning)
 8. [Design Patterns for Microservices](https://dzone.com/articles/design-patterns-for-microservices-1)
 9. [Behavioral Design Patterns: Visitor](https://dzone.com/articles/behavioural-design-patterns-visitor)
-10.[Design Patterns for Microservices](https://dzone.com/articles/design-patterns-for-microservices)
-11.[Singleton Design Pattern: What, Why, How](https://dzone.com/articles/singleton-design-pattern-what-when-why-how)
+10. [Design Patterns for Microservices](https://dzone.com/articles/design-patterns-for-microservices)
+11. [Singleton Design Pattern: What, Why, How](https://dzone.com/articles/singleton-design-pattern-what-when-why-how)
 
 ### Architecture
 1. [Architecture for Continuous Delivery](https://dzone.com/articles/architecture-for-continuous-delivery)
