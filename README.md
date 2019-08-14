@@ -43,5 +43,6 @@ There is list of technologies and tools should master
 1. GIT
 2. Docker
 3. AWS
+4. Nginx
 
 ## 5. Articles must read
