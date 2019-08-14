@@ -62,3 +62,8 @@ If I read one book per two week, I can complete almost 25 book, so I made some l
 6. [Event-Driven Architecture - It’s Not Just About Events!](https://dzone.com/articles/its-not-just-about-events)
 7. [What Is Data Streaming?](https://dzone.com/articles/what-is-data-streaming)
 8. [Asynchronous Messaging: RabbitMQ Introduction](https://dzone.com/articles/asynchronous-messaging-rabbitmq-introduction)
+
+
+## 7. Podcasts
+
+1. [Modern CTO](https://moderncto.io/)
