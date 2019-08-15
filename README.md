@@ -38,11 +38,21 @@ If I read one book per two week, I can complete almost 25 book, so I made some l
 2. ***Four Semesters of Computer Science in 5 Hours Part 2*** by Frontend Masters
 3. ***Introduction to Data Structures for Interviews*** by Frontend Masters
 4. ***A Practical Guide to Algorithms with JavaScript by*** Frontend Masters
+5. [100 Algorithms Challenge](https://www.udemy.com/course/solid-principles-object-oriented-design-architecture/)
+6. [Coding Interview Jumpstart: Algorithms and Problem Solving](https://www.udemy.com/course/coding-interview-jumpstart/)
+7. [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure/)
+8. [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure/)
+9. [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
 
 #### Languages
 
 1. [C Programming For Beginners - Master the C Language](https://www.udemy.com/c-programming-for-beginners-/)
 2. [Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/beginning-c-plus-plus-programming/)
+
+#### Other things
+1. [REST API Design, Development & Management](https://www.udemy.com/rest-api/)
+2. [AWS Certified Solutions Architect - Associate 2019](https://www.udemy.com/aws-certified-solutions-architect-associate/)
+3. 
 
 ## 6. Articles must read
 
