@@ -32,11 +32,17 @@ If I read one book per two week, I can complete almost 25 book, so I made some l
 ## 3. Courses should take
 
 ### Paid Courses
+
+#### Computer Science 
 1. ***Four Semesters of Computer Science in 5 Hours*** by Frontend Masters
 2. ***Four Semesters of Computer Science in 5 Hours Part 2*** by Frontend Masters
 3. ***Introduction to Data Structures for Interviews*** by Frontend Masters
 4. ***A Practical Guide to Algorithms with JavaScript by*** Frontend Masters
 
+#### Languages
+
+1. [C Programming For Beginners - Master the C Language](https://www.udemy.com/c-programming-for-beginners-/)
+2. [Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/beginning-c-plus-plus-programming/)
 
 ## 6. Articles must read
 
