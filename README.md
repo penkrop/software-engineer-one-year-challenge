@@ -52,7 +52,6 @@ If I read one book per two week, I can complete almost 25 book, so I made some l
 #### Other things
 1. [REST API Design, Development & Management](https://www.udemy.com/rest-api/)
 2. [AWS Certified Solutions Architect - Associate 2019](https://www.udemy.com/aws-certified-solutions-architect-associate/)
-3. 
 
 ## 6. Articles must read
 
